@@ -1,2 +1,0 @@
-# Simulink
-Drone simulation
